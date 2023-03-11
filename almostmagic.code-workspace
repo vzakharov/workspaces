@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "GitHub/almostmagic"
+			"path": "../almostmagic"
 		},
 		{
-			"path": "GitHub/vovas-utils-ts"
+			"path": "../vovas-utils-ts"
 		},
 		{
-			"path": "GitHub/vovas-notion"
+			"path": "../vovas-notion"
 		}
 	],
 	"settings": {}

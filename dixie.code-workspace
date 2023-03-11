@@ -1,19 +1,19 @@
 {
 	"folders": [
 		{
-			"path": "GitHub/dixie"
+			"path": "../dixie"
 		},
 		{
-			"path": "GitHub/dixie-config"
+			"path": "../dixie-config"
 		},
 		{
-			"path": "GitHub/apryl"
+			"path": "../apryl"
 		},
 		{
-			"path": "GitHub/use-vova"
+			"path": "../use-vova"
 		},
 		{
-			"path": "GitHub/vovas-utils-ts"
+			"path": "../vovas-utils-ts"
 		}
 	],
 	"settings": {}

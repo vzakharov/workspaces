@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "GitHub/jukwi"
+			"path": "../jukwi"
 		},
 		{
-			"path": "GitHub/jukwi-nuxt"
+			"path": "../jukwi-nuxt"
 		}
 	],
 	"settings": {}
