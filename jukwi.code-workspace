@@ -1,11 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "../jukwi"
-		},
-		{
-			"path": "../jukwi-nuxt"
-		}
-	],
-	"settings": {}
+  "folders": [
+	{
+		"path": "../jukwi"
+	},
+	{
+		"path": "../jukwi-nuxt"
+	}
+]
 }
