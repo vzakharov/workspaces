@@ -1,10 +1,13 @@
 {
   "folders": [
-	{
-		"path": "../jukwi"
-	},
-	{
-		"path": "../jukwi-nuxt"
-	}
-]
+		{
+			"path": "../jukwi"
+		},
+		{
+			"path": "../jukwi-nuxt"
+		},
+		{
+			"path": "../jukebox-5b-lyrics"
+		}
+	]
 }
