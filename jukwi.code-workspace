@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../jukebox-5b-lyrics"
+		},
+		{
+			"path": "../jukebox-webui"
 		}
 	]
 }
