@@ -1,18 +1,27 @@
 {
 	"folders": [
 		{
+			"name": "dixie",
 			"path": "../dixie"
 		},
 		{
+			"name": "dixie-schema",
+			"path": "../dixie-schema"
+		},
+		{
+			"name": "dixie-config",
 			"path": "../dixie-config"
 		},
 		{
+			"name": "apryl",
 			"path": "../apryl"
 		},
 		{
+			"name": "use-vova",
 			"path": "../use-vova"
 		},
 		{
+			"name": "vovas-utils-ts",
 			"path": "../vovas-utils-ts"
 		}
 	],
